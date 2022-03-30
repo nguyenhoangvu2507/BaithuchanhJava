@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class appBai6 {
+public class AppBai6 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
