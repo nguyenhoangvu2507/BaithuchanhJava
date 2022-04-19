@@ -21,5 +21,4 @@ public class Configs {
         return cm;
     }
 }
-© 2022 GitHub, Inc.
-Terms
+

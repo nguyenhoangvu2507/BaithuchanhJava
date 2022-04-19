@@ -1,8 +1,8 @@
 package shapes;
 import java.util.Scanner;
-public class Hinhtru extends Hinhtron {
+public class hinhtru extends hinhtron {
     public float chieucao;
-    public Hinhtru(){
+    public hinhtru(){
         ten="Hinh tru";
     }
     public void nhapchieucao(){

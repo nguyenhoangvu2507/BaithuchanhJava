@@ -1,9 +1,9 @@
 package shapes;
 import java.util.Scanner;
-public class Hinhchunhat extends Hinhhoc{
+public class hinhchunhat extends hinhhoc{
     public float dai;
     public float rong;
-    public Hinhchunhat(){
+    public hinhchunhat(){
         ten="hinh chu nhat";
     }
     public void nhapchieudai(){
